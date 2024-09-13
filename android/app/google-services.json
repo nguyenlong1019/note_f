@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "26444174698",
+    "project_id": "guestbook-chat-app",
+    "storage_bucket": "guestbook-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26444174698:android:00fd24db7a3c87ecfbc113",
+        "android_client_info": {
+          "package_name": "com.example.guest_book2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKEUA6iHbzV1eCTPWjnNlr9nLfm9oAl1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26444174698:android:ec1f74687d5b8f03fbc113",
+        "android_client_info": {
+          "package_name": "com.example.guestbook_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKEUA6iHbzV1eCTPWjnNlr9nLfm9oAl1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
